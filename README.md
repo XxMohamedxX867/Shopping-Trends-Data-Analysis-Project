@@ -43,29 +43,6 @@ shopping-trends-analysis/
 - Power BI Desktop
 - SQL Server (optional, for database operations)
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/shopping-trends-analysis.git
-cd shopping-trends-analysis
-```
-
-2. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
 
 ## 📈 Data Sources
 
