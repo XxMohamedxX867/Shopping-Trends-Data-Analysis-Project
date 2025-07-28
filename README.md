@@ -105,14 +105,6 @@ shopping-trends-analysis/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
 ## 🙏 Acknowledgments
 
 - Data source providers
@@ -121,9 +113,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: your.mohamedgebaly838@gmail.com
+- LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-el-gebaly/)]
+- GitHub: [@XxMohamedxX867](https://github.com/XxMohamedxX867)
 
 ---
 
