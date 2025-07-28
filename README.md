@@ -113,7 +113,7 @@ shopping-trends-analysis/
 
 ## 📞 Contact
 
-- Email: your.mohamedgebaly838@gmail.com
+- Email: mohamedgebaly838@gmail.com
 - LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-el-gebaly/)]
 - GitHub: [@XxMohamedxX867](https://github.com/XxMohamedxX867)
 
